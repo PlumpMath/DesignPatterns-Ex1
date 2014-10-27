@@ -1,0 +1,11 @@
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\bin\Debug\C14_Ex01.exe.config
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.csprojResolveAssemblyReference.cache
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.MainForm.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.Properties.Resources.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.csproj.GenerateResource.Cache
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\bin\Debug\C14_Ex01.exe
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\bin\Debug\C14_Ex01.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\bin\Debug\Facebook.dll
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.exe
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\סמסטר קיץ 2014\Design Patterns\Homework\Ex 1\C14_Ex01\obj\Debug\C14_Ex01.pdb
